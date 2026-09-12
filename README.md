@@ -53,8 +53,8 @@ const Atharva = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-krashos-projects-a330b819.vercel.app/api?username=Athility&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats-krashos-projects-a330b819.vercel.app/api/top-langs/?username=Athility&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-ffyk.vercel.app/api?username=Athility&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-ffyk.vercel.app/api/top-langs/?username=Athility&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
@@ -62,7 +62,7 @@ const Atharva = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Athility&theme=tokyonight&no-frame=true&row=1&column=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Athility&theme=nord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/Athility)
 
 </div>
 
