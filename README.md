@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami`
+## `who-am-i`
 
 ```javascript
 const Atharva = {
@@ -44,8 +44,8 @@ const Atharva = {
 ### ☀️ [dual-axis-solar-tracker](https://github.com/Athility/dual-axis-solar-tracker)
 > Hardware project using an **ATmega328P** microcontroller with dual-axis servo control to track the sun in real time. Where software meets the physical world.
 
-### ⚖️ [ai-law-aid](https://github.com/Athility/ai-law-aid)
-> AI-powered legal assistance tool. Strong community engagement and a project that actually matters.
+### 🪷 [anantah](https://github.com/Athility/anantah)
+> An AI-powered marketplace for Indian artisans — takes a smartphone photo of a handicraft, strips the background, corrects lighting with CLAHE, and produces a studio-grade e-commerce listing. Multilingual (Hindi, Marathi, Gujarati, Tamil), CPU-optimized, and built for low-connectivity rural use. *"Beauty of the Art Stays Eternal."*
 
 ---
 
@@ -53,8 +53,8 @@ const Atharva = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Athility&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athility&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-krashos-projects-a330b819.vercel.app/api?username=Athility&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-krashos-projects-a330b819.vercel.app/api/top-langs/?username=Athility&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
@@ -72,7 +72,7 @@ const Atharva = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-shinde/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-shinde-b12b3b2a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Athility-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athility)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva.shinde@example.com)
 
